@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A7DF1EE-6936-4159-BDD8-7C884F54A6B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TVInfo</RootNamespace>
+    <AssemblyName>TVInfo</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Infragistics4.Shared.v13.1, Version=13.1.20131.2040, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics4.Win.UltraWinListView.v13.1, Version=13.1.20131.2040, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics4.Win.v13.1, Version=13.1.20131.2040, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cache.cs" />
+    <Compile Include="Episode.cs" />
+    <Compile Include="Favorite.cs" />
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProgressBar.Designer.cs">
+      <DependentUpon>frmProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lvwColumnSorter.cs" />
+    <Compile Include="Main Controls\ctrlMovieInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main Controls\ctrlMovieInfo.Designer.cs">
+      <DependentUpon>ctrlMovieInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Season.cs" />
+    <Compile Include="Show.cs" />
+    <Compile Include="Main Controls\ctrlAbout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main Controls\ctrlAbout.Designer.cs">
+      <DependentUpon>ctrlAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Controls\ctrlCalendar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main Controls\ctrlCalendar.Designer.cs">
+      <DependentUpon>ctrlCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Controls\ctrlFavorites.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main Controls\ctrlFavorites.Designer.cs">
+      <DependentUpon>ctrlFavorites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Controls\ctrlHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main Controls\ctrlHome.Designer.cs">
+      <DependentUpon>ctrlHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Controls\ctrlSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main Controls\ctrlSearch.Designer.cs">
+      <DependentUpon>ctrlSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Controls\ctrlSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main Controls\ctrlSettings.Designer.cs">
+      <DependentUpon>ctrlSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Controls\ctrlShowInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main Controls\ctrlShowInfo.Designer.cs">
+      <DependentUpon>ctrlShowInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TMDBCrew.cs" />
+    <Compile Include="TMDBEpisode.cs" />
+    <Compile Include="TMDBGeneral.cs" />
+    <Compile Include="TMDBMovie.cs" />
+    <Compile Include="TMDBQuery.cs" />
+    <Compile Include="TMDBSeason.cs" />
+    <Compile Include="TMDBShow.cs" />
+    <Compile Include="TMDBStar.cs" />
+    <Compile Include="TVInfoSettings.cs" />
+    <Compile Include="User Controls\Calendar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\Calendar.Designer.cs">
+      <DependentUpon>Calendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\ctrlExpansion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\ctrlExpansion.Designer.cs">
+      <DependentUpon>ctrlExpansion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\ctrlHomeShow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\ctrlHomeShow.Designer.cs">
+      <DependentUpon>ctrlHomeShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\ctrlShowGeneral.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\ctrlShowGeneral.Designer.cs">
+      <DependentUpon>ctrlShowGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\ctrlProperty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\ctrlProperty.Designer.cs">
+      <DependentUpon>ctrlProperty.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProgressBar.resx">
+      <DependentUpon>frmProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Controls\ctrlMovieInfo.resx">
+      <DependentUpon>ctrlMovieInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Main Controls\ctrlAbout.resx">
+      <DependentUpon>ctrlAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Controls\ctrlCalendar.resx">
+      <DependentUpon>ctrlCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Controls\ctrlFavorites.resx">
+      <DependentUpon>ctrlFavorites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Controls\ctrlHome.resx">
+      <DependentUpon>ctrlHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Controls\ctrlSearch.resx">
+      <DependentUpon>ctrlSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Controls\ctrlSettings.resx">
+      <DependentUpon>ctrlSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Controls\ctrlShowInfo.resx">
+      <DependentUpon>ctrlShowInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\Calendar.resx">
+      <DependentUpon>Calendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\ctrlExpansion.resx">
+      <DependentUpon>ctrlExpansion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\ctrlHomeShow.resx">
+      <DependentUpon>ctrlHomeShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\ctrlShowGeneral.resx">
+      <DependentUpon>ctrlShowGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\ctrlProperty.resx">
+      <DependentUpon>ctrlProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loading.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

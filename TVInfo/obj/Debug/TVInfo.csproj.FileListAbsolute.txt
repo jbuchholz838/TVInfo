@@ -1,0 +1,174 @@
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.frmMain.resources
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.Properties.Resources.resources
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlAbout.resources
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlCalendar.resources
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlFavorites.resources
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHome.resources
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSearch.resources
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSettings.resources
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowInfo.resources
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.GenerateResource.Cache
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\bin\Debug\TVInfo.exe
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\bin\Debug\TVInfo.pdb
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.pdb
+C:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.csprojResolveAssemblyReference.cache
+C:\Users\ISIuser\Dropbox\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+C:\Users\ISIuser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+C:\Users\ISIuser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.pdb
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\bin\Debug\TVInfo.exe
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\bin\Debug\TVInfo.pdb
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.csprojResolveAssemblyReference.cache
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.frmMain.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.Properties.Resources.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlAbout.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlCalendar.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlFavorites.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHome.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSearch.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSettings.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowInfo.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.GenerateResource.Cache
+D:\Users\Justin\Dropbox\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+D:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+D:\Users\Justin\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.pdb
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.frmProgressBar.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.User_Controls.ctrlExpansion.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowGeneral.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlProperty.resources
+C:\Users\ISIUser\Dropbox\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHomeShow.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.pdb
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.pdb
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.frmMain.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.frmProgressBar.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.Properties.Resources.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlAbout.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlCalendar.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlFavorites.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHome.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSearch.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSettings.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowInfo.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.User_Controls.ctrlExpansion.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHomeShow.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowGeneral.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlProperty.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.GenerateResource.Cache
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.pdb
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.pdb
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csprojResolveAssemblyReference.cache
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.frmMain.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.frmProgressBar.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.Properties.Resources.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlAbout.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlCalendar.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlFavorites.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHome.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSearch.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSettings.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowInfo.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.User_Controls.ctrlExpansion.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHomeShow.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowGeneral.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlProperty.resources
+D:\Users\Justin\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.GenerateResource.Cache
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.exe.licenses
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.pdb
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.pdb
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csprojResolveAssemblyReference.cache
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.frmMain.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.frmProgressBar.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.Properties.Resources.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlAbout.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlCalendar.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlFavorites.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHome.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSearch.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSettings.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowInfo.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.User_Controls.ctrlExpansion.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHomeShow.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowGeneral.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlProperty.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.GenerateResource.Cache
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.exe.licenses
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlMovieInfo.resources
+C:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csprojResolveAssemblyReference.cache
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlMovieInfo.resources
+E:\Documents\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.User_Controls.Calendar.resources
+D:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+D:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+D:\Users\ISIUser\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.pdb
+D:\Users\jbuchholz\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+D:\Users\jbuchholz\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+D:\Users\jbuchholz\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.pdb
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.exe
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\TVInfo.pdb
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\Newtonsoft.Json.dll
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\bin\Debug\Newtonsoft.Json.xml
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csprojAssemblyReference.cache
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.frmMain.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.frmProgressBar.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlMovieInfo.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.Properties.Resources.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlAbout.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlCalendar.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlFavorites.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHome.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSearch.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSettings.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowInfo.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.User_Controls.Calendar.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.User_Controls.ctrlExpansion.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHomeShow.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowGeneral.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlProperty.resources
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.GenerateResource.cache
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.exe.licenses
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.CoreCompileInputs.cache
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.CopyComplete
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+D:\Users\jbuch\Dropbox\Software Development\TVInfo\TVInfo\obj\Debug\TVInfo.pdb
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\bin\Debug\TVInfo.exe.config
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\bin\Debug\TVInfo.exe
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\bin\Debug\TVInfo.pdb
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\bin\Debug\Newtonsoft.Json.dll
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\bin\Debug\Newtonsoft.Json.xml
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.csprojAssemblyReference.cache
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.frmMain.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.frmProgressBar.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlMovieInfo.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.Properties.Resources.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlAbout.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlCalendar.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlFavorites.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHome.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSearch.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlSettings.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowInfo.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.User_Controls.Calendar.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.User_Controls.ctrlExpansion.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlHomeShow.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlShowGeneral.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.ctrlProperty.resources
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.GenerateResource.cache
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.exe.licenses
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.CoreCompileInputs.cache
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.csproj.CopyComplete
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.exe
+D:\Users\jbuch\Documents\GitHub\TVInfo\TVInfo\obj\Debug\TVInfo.pdb

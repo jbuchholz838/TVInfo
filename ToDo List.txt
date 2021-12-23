@@ -1,0 +1,13 @@
+
+TV Info To-Do List
+
+- Change navigation text on hover
+- Collapsible sections on Show screen
+- Expand Search screen
+- Config File
+	- Load favorites on open
+	- Themes
+	- Home modules?
+- Expand Home screen modules (tracked shows?)
+- Cache favorites list and load on prompt
+- Interactive Calendar screen
