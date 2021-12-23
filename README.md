@@ -3,10 +3,11 @@
 A program that utilizes an online API to retrieve JSON data containing TV show information such as episodes, air dates, genres, etc. 
 
 
-## Technologies
+## Main Technologies
 - C# .Net 4.5
 - WinForms
 - TheMovieDB and TV Rage APIs
+- JSON
 
 
 ## Screenshots
