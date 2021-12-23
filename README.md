@@ -2,7 +2,7 @@
 
 A program that utilizes an online API to retrieve JSON data containing TV show information such as episodes, air dates, genres, etc.
 
-This program was developed during during 2014 - 2016 and is no longer actively being used or developed.
+This was developed during during 2014 - 2016 and is no longer actively being used or developed.
 
 
 ## Technologies
