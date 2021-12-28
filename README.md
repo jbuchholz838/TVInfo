@@ -8,8 +8,8 @@ This was developed throughout 2014 - 2016 and is no longer actively being used o
 ## Technologies
 - C# .Net 4.5
 - WinForms
-- TheMovieDB and TV Rage APIs
 - JSON
+- TheMovieDB and TV Rage APIs
 
 
 ## Screenshots
