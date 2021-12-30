@@ -15,10 +15,16 @@ This was developed throughout 2014 - 2016 and is no longer actively being used o
 ## Screenshots
 
 ##### Program Loading
-![Program Loading](https://user-images.githubusercontent.com/19980511/147184619-8326bd8e-ef5a-44f2-992b-b12696eb406a.png)
+![Program Loading](https://user-images.githubusercontent.com/19980511/147719682-db789eb7-d00b-4326-8973-e053fd881c46.png)
 
 ##### Home
-![Home](https://user-images.githubusercontent.com/19980511/147184610-8a303f04-a5b7-4b6b-aca2-24a730a311db.png)
+![Home](https://user-images.githubusercontent.com/19980511/147719702-e68e77f3-56e9-4e9a-a5e2-3e8693329f15.png)
 
 ##### Favorites
-![Favorites](https://user-images.githubusercontent.com/19980511/147184593-91e3c8ec-93fd-4a1b-8239-14284794afc9.png)
+![Favorites](https://user-images.githubusercontent.com/19980511/147719711-eb8827ae-88a1-4e2c-8ddc-7161f9fe5d47.png)
+
+#### Show Info
+![Show Info](https://user-images.githubusercontent.com/19980511/147719719-0ba66be4-2091-4662-8999-3f12685a8b64.png)
+
+#### Search
+![Search](https://user-images.githubusercontent.com/19980511/147719724-e8a9c1a7-5c35-464c-9734-f545ec841c16.png)
