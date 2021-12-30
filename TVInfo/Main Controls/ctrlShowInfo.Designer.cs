@@ -29,11 +29,12 @@
             this.pnlGeneral = new System.Windows.Forms.Panel();
             this.lblLastDate = new System.Windows.Forms.Label();
             this.lblLastDateHead = new System.Windows.Forms.Label();
+            this.lblEndDate = new System.Windows.Forms.Label();
+            this.lblNextDateHead = new System.Windows.Forms.Label();
             this.lblNextEpisode = new System.Windows.Forms.Label();
             this.lblNextEpisodeHead = new System.Windows.Forms.Label();
             this.lblGenres = new System.Windows.Forms.Label();
             this.lblNextDate = new System.Windows.Forms.Label();
-            this.lblEndDate = new System.Windows.Forms.Label();
             this.lblAirtime = new System.Windows.Forms.Label();
             this.lblAirday = new System.Windows.Forms.Label();
             this.lblSeasons = new System.Windows.Forms.Label();
@@ -49,7 +50,6 @@
             this.lblAirdayHead = new System.Windows.Forms.Label();
             this.lblEndDateHead = new System.Windows.Forms.Label();
             this.lblAirtimeHead = new System.Windows.Forms.Label();
-            this.lblNextDateHead = new System.Windows.Forms.Label();
             this.lblStatusHead = new System.Windows.Forms.Label();
             this.lblCountryHead = new System.Windows.Forms.Label();
             this.lblName = new System.Windows.Forms.Label();
@@ -155,6 +155,24 @@
             this.lblLastDateHead.TabIndex = 134;
             this.lblLastDateHead.Text = "Last Date:";
             // 
+            // lblEndDate
+            // 
+            this.lblEndDate.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEndDate.Location = new System.Drawing.Point(162, 321);
+            this.lblEndDate.Name = "lblEndDate";
+            this.lblEndDate.Size = new System.Drawing.Size(733, 20);
+            this.lblEndDate.TabIndex = 129;
+            this.lblEndDate.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // lblNextDateHead
+            // 
+            this.lblNextDateHead.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNextDateHead.Location = new System.Drawing.Point(27, 260);
+            this.lblNextDateHead.Name = "lblNextDateHead";
+            this.lblNextDateHead.Size = new System.Drawing.Size(129, 20);
+            this.lblNextDateHead.TabIndex = 113;
+            this.lblNextDateHead.Text = "Next Date:";
+            // 
             // lblNextEpisode
             // 
             this.lblNextEpisode.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -189,15 +207,6 @@
             this.lblNextDate.Size = new System.Drawing.Size(733, 20);
             this.lblNextDate.TabIndex = 130;
             this.lblNextDate.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // lblEndDate
-            // 
-            this.lblEndDate.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEndDate.Location = new System.Drawing.Point(162, 321);
-            this.lblEndDate.Name = "lblEndDate";
-            this.lblEndDate.Size = new System.Drawing.Size(733, 20);
-            this.lblEndDate.TabIndex = 129;
-            this.lblEndDate.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // lblAirtime
             // 
@@ -334,15 +343,6 @@
             this.lblAirtimeHead.TabIndex = 114;
             this.lblAirtimeHead.Text = "Airtime:";
             // 
-            // lblNextDateHead
-            // 
-            this.lblNextDateHead.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNextDateHead.Location = new System.Drawing.Point(27, 260);
-            this.lblNextDateHead.Name = "lblNextDateHead";
-            this.lblNextDateHead.Size = new System.Drawing.Size(129, 20);
-            this.lblNextDateHead.TabIndex = 113;
-            this.lblNextDateHead.Text = "Next Date:";
-            // 
             // lblStatusHead
             // 
             this.lblStatusHead.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -405,6 +405,7 @@
             this.grpEpisodes.TabIndex = 1;
             this.grpEpisodes.TabStop = false;
             this.grpEpisodes.Text = "Episodes";
+            this.grpEpisodes.Visible = false;
             // 
             // pnlEpisodes
             // 
@@ -424,6 +425,7 @@
             this.btnEpisodes.TabIndex = 0;
             this.btnEpisodes.Text = "Expand";
             this.btnEpisodes.UseVisualStyleBackColor = true;
+            this.btnEpisodes.Visible = false;
             this.btnEpisodes.Click += new System.EventHandler(this.btnEpisodes_Click);
             // 
             // ctrlShowInfo

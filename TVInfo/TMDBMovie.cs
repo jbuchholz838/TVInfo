@@ -150,7 +150,7 @@ namespace TVInfo {
 
         private void convertDate() {
         
-            if (release_date != null){
+            if (!String.IsNullOrEmpty(release_date)){
 
                 DateTime tmp = Convert.ToDateTime(release_date);
                 release_date = tmp.ToString("MM/dd/yyyy");

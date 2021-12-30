@@ -92,7 +92,7 @@
             // 
             // menMain
             // 
-            this.menMain.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.menMain.BackColor = System.Drawing.SystemColors.HotTrack;
             this.menMain.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold);
             this.menMain.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
@@ -209,6 +209,7 @@
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
             this.settingsToolStripMenuItem.Size = new System.Drawing.Size(74, 20);
             this.settingsToolStripMenuItem.Text = "SETTINGS";
+            this.settingsToolStripMenuItem.Visible = false;
             this.settingsToolStripMenuItem.Click += new System.EventHandler(this.menuBar_OnClick);
             this.settingsToolStripMenuItem.MouseEnter += new System.EventHandler(this.navTextColorChange);
             this.settingsToolStripMenuItem.MouseLeave += new System.EventHandler(this.navTextColorChange);
@@ -220,6 +221,7 @@
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
             this.aboutToolStripMenuItem.Size = new System.Drawing.Size(58, 20);
             this.aboutToolStripMenuItem.Text = "ABOUT";
+            this.aboutToolStripMenuItem.Visible = false;
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.menuBar_OnClick);
             this.aboutToolStripMenuItem.MouseEnter += new System.EventHandler(this.navTextColorChange);
             this.aboutToolStripMenuItem.MouseLeave += new System.EventHandler(this.navTextColorChange);
@@ -295,6 +297,7 @@
             this.testToolStripMenuItem.Name = "testToolStripMenuItem";
             this.testToolStripMenuItem.Size = new System.Drawing.Size(46, 20);
             this.testToolStripMenuItem.Text = "TEST";
+            this.testToolStripMenuItem.Visible = false;
             this.testToolStripMenuItem.Click += new System.EventHandler(this.testToolStripMenuItem_Click);
             // 
             // pnlMain
@@ -307,11 +310,11 @@
             // 
             // lblDate
             // 
-            this.lblDate.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.lblDate.BackColor = System.Drawing.SystemColors.HotTrack;
             this.lblDate.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblDate.Location = new System.Drawing.Point(713, 1);
+            this.lblDate.Location = new System.Drawing.Point(638, 1);
             this.lblDate.Name = "lblDate";
-            this.lblDate.Size = new System.Drawing.Size(232, 21);
+            this.lblDate.Size = new System.Drawing.Size(307, 21);
             this.lblDate.TabIndex = 0;
             this.lblDate.Text = "<DATE>";
             this.lblDate.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
